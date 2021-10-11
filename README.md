@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/asifali2096">
-  <img src="https://github.com/asifazamali/asifazamali/blob/master/devcard.svg" width="400" alt="Asif Ali's Dev Card"/>
+  <img src="https://github.com/asifazamali/asifazamali/devcard.svg" width="400" alt="Asif Ali's Dev Card"/>
 </a>
